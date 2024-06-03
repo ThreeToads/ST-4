@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace BugTestsFunc
+namespace BugTests
 {
     [TestClass]
     public class Tests
